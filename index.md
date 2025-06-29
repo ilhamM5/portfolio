@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Ilham Mneimneh
 subtitle: Bioinformatics | Genomics | Computational Biology
 ---
