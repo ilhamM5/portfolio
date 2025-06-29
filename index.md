@@ -4,7 +4,7 @@ title: Ilham Mneimneh
 subtitle: Bioinformatics | Genomics | Computational Biology
 ---
 
-Welcome! I'm **Ilham Mneimneh**, a final-year Bioinformatics student at the Lebanese American University with a strong foundation in genomics, structural biochemistry, and multi-omics data integration.
+Welcome! I'm **Ilham Mneimneh**, holding a Bioinformatics BSc with High Distinction from the Lebanese American University with a strong foundation in genomics, structural biochemistry, and multi-omics data integration.
 
 I specialize in applying computational techniques to biological challenges, particularly in the areas of:
 - **Genome annotation and phylogenetics**
