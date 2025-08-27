@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-showcase: projects_showcase
 show_sidebar: false
 ---
 
