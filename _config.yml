@@ -4,3 +4,9 @@ description: Final-year bioinformatics student at LAU.
 permalink: pretty
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
  
+collections:
+  products: 
+    output: true
+    layout: projects
+    image: https://via.placeholder.com/800x600
+    show_sidebar: false
