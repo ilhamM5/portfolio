@@ -3,3 +3,9 @@ email: ilham@mmneimneh.net
 description: Final-year bioinformatics student at LAU.
 permalink: pretty
 remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+
+collections:
+  projects: 
+    output: true
+    layout: product
+    show_sidebar: false
