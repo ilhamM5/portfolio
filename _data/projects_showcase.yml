@@ -3,6 +3,13 @@ items:
     subtitle: Undergraduate Thesis (2025)
     description: |-
       Multi-omics study of ROBO1/ROBO3 dysregulation in AML using genomic and transcriptomic integration.
-    links:
-      - label: View Notebooks
-      - label: Final Report
+    link_text: View Notebooks
+    link_text: Final Report
+    
+  - title: tes test
+    subtitle: Undergraduate Thesis (2025)
+    description: |-
+      Multi-omics study of ROBO1/ROBO3 dysregulation in AML using genomic and transcriptomic integration.
+    link_text: View Notebooks
+    link_text: Final Report
+
