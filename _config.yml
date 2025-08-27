@@ -7,5 +7,5 @@ remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 collections:
   projects: 
     output: true
-    layout: product
+    layout: product 
     show_sidebar: false
