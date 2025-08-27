@@ -1,9 +1,8 @@
 ---
 title: Projects
 subtitle: Check out my projects :)
-layout: product-category
+layout: page
 show_sidebar: false
-collection: projects
 sort: title
 ---
 
