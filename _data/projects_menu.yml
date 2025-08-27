@@ -1,5 +1,7 @@
 - label: Bachelor Thesis
   items:
+    - name: R Notebooks
     - name: Report
 - label: Class Projects
+    - name: Machine Learning':' Forest Fire Prediction
 - label: Lab Projects
