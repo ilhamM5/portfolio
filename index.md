@@ -21,4 +21,4 @@ I am currently a research assistant at LAU's **Microbial Genomics Lab**, where I
 - Co-founded **Humanized.i**, a mental health initiative promoting science communication in the Arab world
 
 ---
-# (Explore my [Projects](/projects/), download my [CV](/assets/Ilham_Mneimneh_CV.pdf), or connect with me on [LinkedIn](https://www.linkedin.com/in/ilham-mneimneh/).)
+### (Explore my [Projects](/projects/), download my [CV](/assets/Ilham_Mneimneh_CV.pdf), or connect with me on [LinkedIn](https://www.linkedin.com/in/ilham-mneimneh/).)
