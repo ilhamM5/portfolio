@@ -3,5 +3,6 @@
     - name: R Notebooks
     - name: Report
 - label: Class Projects
-    - name: Machine Learning':' Forest Fire Prediction
+  items:
+    - name: Machine Learning: Forest Fire Prediction
 - label: Lab Projects
